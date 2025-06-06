@@ -86,21 +86,6 @@ Logging
 
 File log được lưu tại output/output.log để theo dõi quá trình thực thi và debug.
 
-Giấy phép
-
-Giấy phép: MIT License (cho phép sử dụng phi thương mại và trong học thuật).
-Trích dẫn: Nếu sử dụng trong nghiên cứu, vui lòng ghi nhận tác giả và link tới repository: vanhai123/skin_cancer_detection.
-
-Tác giả
-
-Tên: Hà Văn Hải
-Email: vanhai11203@gmail.com
-Hugging Face: vanhai123
-
-Liên hệ
-Nếu bạn cần hỗ trợ, trao đổi, hoặc hợp tác nghiên cứu, hãy liên hệ qua email hoặc Hugging Face. Tôi rất mong nhận được phản hồi để cải thiện dự án!
-Lưu ý
-
 Đảm bảo môi trường có hỗ trợ GPU và cài đặt CUDA/CUDNN cho TensorFlow 2.15.0.
 Dự án được thiết kế mô-đun để dễ dàng tái sử dụng trong các bài toán phân loại hình ảnh khác.
 Kiểm tra file log (output/output.log) để xử lý lỗi nếu xảy ra.
