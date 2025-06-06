@@ -8,3 +8,13 @@ __pycache__/
 output/
 tf215env/
 tf26env/
+# Thêm vào .gitignore nếu chưa có
+node_modules/
+.next/
+.DS_Store
+.env
+*.log
+*.h5
+*.keras
+__pycache__/
+.data/
