@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.h5
+*.keras
+*.log
+.DS_Store
+*.pyc
+output/
+tf215env/
+tf26env/
